@@ -1,0 +1,41 @@
+/* header area  */
+header{
+    background: #222;
+    color: #fff;
+    padding: 50px 0;
+}
+header h1{
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+header h4{
+    font-size: 18px;
+    line-height: 25px;
+}
+span{
+    width: 80px;
+    background: #fff;
+    border-radius: 5px;
+    color: #222;
+    margin-left: 20px;
+    position: absolute;
+    text-align: center;
+}
+/* end header area  */
+main{
+    background: #eee;
+    padding: 40px 0;
+}
+.card{
+    margin-bottom: 20px;
+}
+.card-bottom button{
+    float: right;
+}
+.card-bottom p{
+    display: inline;
+}
+.card-bottom p{
+    font-weight: 700; 
+}
